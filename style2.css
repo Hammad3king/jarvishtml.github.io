@@ -1,0 +1,116 @@
+body {
+
+    background-image: linear-gradient(to right , skyblue,lightgreen);
+}
+
+#ID h1 {
+
+    
+
+        text-align: center;
+        color: black;
+        font-size: 50px;
+        font-weight: bolder;
+        font-family: fantasy;
+   
+
+}
+
+#IM { 
+
+    text-align: center;
+    
+}
+
+#IM img { 
+
+    height: 300px;
+    width: 500px;
+
+    border-radius: 20px;
+}
+
+.Next {
+    display: inline-block;
+    text-align: left;
+    
+    
+}
+
+
+#Nav a {
+
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Next  :hover {
+
+
+    color: aquamarine;
+
+    
+}
+
+.Next h2 { 
+    color: black;
+}
+
+
+#DIV { 
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+
+
+}
+
+#O h3 {
+
+
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: fantasy;
+
+
+    
+}
+
+
+#O { 
+    float: left;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.IN {
+    width: 300px;
+    height: 200px; 
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#E { 
+
+    margin-bottom: 40px;
+
+    
+}
+
+.EAT {width: 300px;
+height: 200px; 
+display: inline-block;
+margin-left: 150px; }
